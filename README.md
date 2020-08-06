@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Stats](https://github-readme-stats.vercel.app/api?username=angrymouse&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=angrymouse&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angrymouse&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
