@@ -8,5 +8,5 @@
 - 🤔 I’m hiring for a good job
 - 💬 Ask me everything about JS
 - 📫 How to reach me: Discord - Angrymouse#0444, Telegram: [@micever](https://t.me/micever), email: [micevx@gmail.com](mailto:micevx@gmail.com)
-- 😄 I'm speak: English, Russian, Ukrainian
+- 😄 I'm speak on: English, Russian, Ukrainian
 - ⚡ Fun fact: I don't look like my avatar =)
