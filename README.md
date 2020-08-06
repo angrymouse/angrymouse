@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on https://top-bots.xyz
 - 🌱 I’m currently learning VueJS
-- 👯 I’m looking to collaborate on top-bots.xyz
 - 🤔 I’m hiring for a good job
 - 💬 Ask me everything about JS
 - 📫 How to reach me: Discord - Angrymouse#0444, Telegram: [@micever](https://t.me/micever), email: [micevx@gmail.com](mailto:micevx@gmail.com)
