@@ -1,7 +1,7 @@
 ### Hello visitor 👋
 [![Stats](https://github-readme-stats.vercel.app/api?username=angrymouse&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angrymouse&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Codewars rank](https://www.codewars.com/users/angermouse/badges/large)
+[![Codewars rank]](https://www.codewars.com/users/angermouse/badges/large)
 
 - 🔭 I’m currently working on https://top-bots.xyz
 - 🌱 I’m currently learning VueJS
