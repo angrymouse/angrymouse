@@ -12,10 +12,10 @@
 - ⚡ Fun fact: I don't look like my avatar =)
 Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
 Top sponsors:
-- Марк, 5000 руб
-- Neon, 500 руб
-- Merded, 400 руб
-- elemelkyaa, 186 руб
-- Mentide, 111 руб
-- kutuzovrusss, 93 руб
-- Okayu, 50 руб
+1. Марк, 5000 руб
+2. Neon, 500 руб
+3. Merded, 400 руб
+4. elemelkyaa, 186 руб
+5. Mentide, 111 руб
+6. kutuzovrusss, 93 руб
+7. Okayu, 50 руб
