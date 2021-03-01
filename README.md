@@ -10,3 +10,12 @@
 - 📫 How to reach me: Discord - Angrymouse#0444, Telegram: [@angermouse](https://t.me/angermouse), email: [micevx@gmail.com](mailto:micevx@gmail.com)
 - 😄 Languages that I know: English, Russian, Ukrainian
 - ⚡ Fun fact: I don't look like my avatar =)
+Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
+Top sponsors:
+- Марк, 5000 руб
+- Neon, 500 руб
+- Merded, 400 руб
+- elemelkyaa, 186 руб
+- Mentide, 111 руб
+- kutuzovrusss, 93 руб
+- Okayu, 50 руб
