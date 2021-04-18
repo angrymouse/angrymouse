@@ -12,11 +12,8 @@
 - ⚡ Fun fact: I don't look like my avatar =)
 
 Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
-Top sponsors:
-1. Марк, 5000 руб
-2. Neon, 500 руб
-3. Merded, 400 руб
-4. elemelkyaa, 186 руб
-5. Mentide, 111 руб
-6. kutuzovrusss, 93 руб
-7. Okayu, 50 руб
+I'm sponsored by adminstration of these awesome communities:
+- [Team Projects](https://discord.gg/NNFze7jSYN)
+- [Rainbow's server](https://discord.gg/2wQQtFWUha)
+- [Mice Labs](https://discord.gg/ezEeGmq)
+- [Moon Community](https://discord.gg/s693zrhAU9)
