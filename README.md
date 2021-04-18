@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I don't look like my avatar =)
 
 Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
+
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
 - [Rainbow's server](https://discord.gg/2wQQtFWUha)
