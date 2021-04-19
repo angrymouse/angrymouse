@@ -15,6 +15,6 @@ Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mi
 
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
-- [Rainbow's server](https://discord.gg/2wQQtFWUha)
+- [Rainbow's Server](https://discord.gg/CtRp5GB)
 - [Mice Labs](https://discord.gg/ezEeGmq)
 - [Moon Community](https://discord.gg/s693zrhAU9)
