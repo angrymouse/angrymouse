@@ -1,6 +1,6 @@
 ## Yo visitor!
 
-# Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
+# Thanks to my sponsors for supporting me ([Become a sponsor ![](boosty.svg)](https://boosty.to/mice)).
 
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
