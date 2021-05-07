@@ -1,6 +1,6 @@
 ## Yo visitor!
 
-# Thanks to my sponsors for supporting me ([Become a sponsor <img src="boosty.svg" alt="boosty logo" width="200"/>](https://boosty.to/mice)).
+# Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
 
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
@@ -14,3 +14,4 @@ I'm sponsored by adminstration of these awesome communities:
 ![](https://komarev.com/ghpvc/?username=angrymouse)
 
 ![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg) ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+[<img src="boosty.svg" alt="boosty logo" width="200"/>](https://boosty.to/mice)
