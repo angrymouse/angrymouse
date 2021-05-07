@@ -11,4 +11,4 @@ I'm sponsored by adminstration of these awesome communities:
 ![Angrymouse's github streak](https://github-readme-streak-stats.herokuapp.com/?user=angrymouse&theme=midnight-purple)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)  ![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg) ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](https://komarev.com/ghpvc/?username=angrymouse)  ![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg) ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
