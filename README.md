@@ -14,4 +14,5 @@ I'm sponsored by adminstration of these awesome communities:
 ![](https://komarev.com/ghpvc/?username=angrymouse)
 
 ![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg) ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+
 [<img src="boosty.svg" alt="boosty logo" width="200"/>](https://boosty.to/mice)
