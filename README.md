@@ -4,9 +4,8 @@
 
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
-- [Rainbow's Server](https://discord.gg/CtRp5GB)
 - [Mice Labs](https://discord.gg/ezEeGmq)
-- [Moon Community](https://discord.gg/s693zrhAU9)
+
 ## [List your community here!](https://boosty.to/mice)
 ![Angrymouse's github streak](https://github-readme-streak-stats.herokuapp.com/?user=angrymouse&theme=midnight-purple)
 
