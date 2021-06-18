@@ -10,8 +10,11 @@ I'm sponsored by adminstration of these awesome communities:
 ![Angrymouse's github streak](https://github-readme-streak-stats.herokuapp.com/?user=angrymouse&theme=midnight-purple)
 
 Instagram: [@mice.versionx](https://www.instagram.com/mice.versionx/)
+
 Discord: Angrymouse#0777
+
 Telegram: [@angermouse](https://t.me/angermouse)
+
 Keybase: [@thriface](https://keybase.io/thriface)
 
 
