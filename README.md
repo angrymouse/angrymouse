@@ -5,6 +5,7 @@
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
 - [Mice Labs](https://discord.gg/ezEeGmq)
+- [Frime Bot Community](https://discord.gg/Q9GpswKsqV)
 
 ## [List your community here!](https://boosty.to/mice)
 ![Angrymouse's github streak](https://github-readme-streak-stats.herokuapp.com/?user=angrymouse&theme=midnight-purple)
