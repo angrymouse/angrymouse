@@ -4,7 +4,7 @@
 
 I'm sponsored by adminstration of these awesome communities:
 - [Team Projects](https://discord.gg/NNFze7jSYN)
-- [Mice Labs](https://discord.gg/ezEeGmq)
+- [NightLight](https://discord.gg/CSdEyGpBwr)
 - [Frime Bot Community](https://discord.gg/Q9GpswKsqV)
 
 ## [List your community here!](https://boosty.to/mice)
