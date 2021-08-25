@@ -1,5 +1,5 @@
 ## Yo visitor!
-
+# [My Discord server](https://discord.gg/CSdEyGpBwr) Ask me anything!
 # Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
 
 I'm sponsored by adminstration of these awesome communities:
