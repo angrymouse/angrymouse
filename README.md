@@ -1,14 +1,7 @@
 ## Yo visitor!
-# **[My Discord server](https://discord.gg/CSdEyGpBwr)** Ask me anything!
+## **[``My Discord server``](https://discord.gg/CSdEyGpBwr)** Ask me anything!
 ## Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
-
-I'm sponsored by adminstration of these awesome communities:
-- [Team Projects](https://discord.gg/NNFze7jSYN)
-- [NightLight](https://discord.gg/CSdEyGpBwr)
-- [Frime Bot Community](https://discord.gg/Q9GpswKsqV)
-
-## [List your community here!](https://boosty.to/mice)
-![Angrymouse's github streak](https://github-readme-streak-stats.herokuapp.com/?user=angrymouse&theme=midnight-purple)
+# I also own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
 
 Instagram: [@mice.versionx](https://www.instagram.com/mice.versionx/)
 
