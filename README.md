@@ -13,7 +13,7 @@ Telegram: [@angermouse](https://t.me/angermouse)
 Keybase: [@thriface](https://keybase.io/thriface)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=angrymouse)
+![trophy](https://github-profile-trophy.vercel.app/?username=angrymouse&column=8&theme=discord&no-frame=true&no-bg=true)
 
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
