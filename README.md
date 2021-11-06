@@ -1,11 +1,12 @@
 ## Yo visitor!
-## **[``My Discord server``](https://discord.gg/CSdEyGpBwr)** Ask me anything!
 
-# I also own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
+# I own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
+
 
 Instagram: [@mice.versionx](https://www.instagram.com/mice.versionx/)
 
 Discord: Angrymouse#0777
+### **[``My Discord server``](https://discord.gg/CSdEyGpBwr)** Ask me anything!
 
 Telegram: [@angermouse](https://t.me/angermouse)
 
