@@ -1,6 +1,6 @@
 ## Yo visitor!
 ## **[``My Discord server``](https://discord.gg/CSdEyGpBwr)** Ask me anything!
-## Thanks to my sponsors for supporting me ([Become a sponsor](https://boosty.to/mice)).
+
 # I also own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
 
 Instagram: [@mice.versionx](https://www.instagram.com/mice.versionx/)
