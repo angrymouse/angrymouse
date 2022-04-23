@@ -1,6 +1,6 @@
 ## Yo visitor!
-![](https://komarev.com/ghpvc/?username=angrymouse)
-I develop useful things in @ArweaveTeam, lead of @anothercoin
+
+
 I own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
 
 
