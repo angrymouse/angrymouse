@@ -11,7 +11,7 @@ Discord: Angrymouse#0777
 
 Telegram: [@angermouse](https://t.me/angermouse)
 
-Keybase: [@thriface](https://keybase.io/thriface)
+Keybase: [@mousy](https://keybase.io/mousy)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=angrymouse&column=8&theme=discord&no-frame=true&no-bg=true)
