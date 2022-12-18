@@ -18,4 +18,4 @@ Keybase: [@mousy](https://keybase.io/mousy)
 
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
-[<img src="boosty.svg" alt="boosty logo" width="200"/>](https://boosty.to/mice)
+
