@@ -1,8 +1,5 @@
 ## Yo visitor!
 
-
-I own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
-
 I contribute to https://stargaze.zone, https://arweave.org, https://handshake.org.
 
 Senior fullstack developer (5 years of experience in JS. Main stack: Nuxt/JS/Nodejs/TailwindCSS)
@@ -18,4 +15,4 @@ Keybase: [@mousy](https://keybase.io/mousy)
 
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
-
+I own [Find a Discord](https://findadiscord.com) (🐕)
