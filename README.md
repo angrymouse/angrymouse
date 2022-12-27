@@ -2,7 +2,7 @@
 
 I contribute to https://stargaze.zone, https://arweave.org, https://handshake.org.
 
-Senior fullstack developer (5 years of experience in JS. Main stack: Nuxt/JS/Nodejs/TailwindCSS)
+Decentramaximalist, Senior fullstack developer (5 years of experience in JS. Main stack: Nuxt/JS/Nodejs/TailwindCSS)
 
 Discord: Angrymouse#0777
 
