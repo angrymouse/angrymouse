@@ -3,11 +3,11 @@
 
 I own [Discord Bots List](https://top-bots.xyz) and [Find a Discord](https://findadiscord.com) 
 
+I contribute to https://stargaze.zone, https://arweave.org, https://handshake.org.
 
-Instagram: [@mice.versionx](https://www.instagram.com/mice.versionx/)
+Senior fullstack developer (5 years of experience in JS. Main stack: Nuxt/JS/Nodejs/TailwindCSS)
 
 Discord: Angrymouse#0777
-### **[``My Discord server``](https://discord.gg/CSdEyGpBwr)** Ask me anything!
 
 Telegram: [@angermouse](https://t.me/angermouse)
 
