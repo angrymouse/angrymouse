@@ -5,4 +5,4 @@ Decentramaximalist, JS dev (Nuxt <3)
 
 Discord: Angrymouse#0777
 ```math
-\ce{$\unicode[background: url('https://bitcoin.org');]{x0000}$}
+\ce{$\unicode[monospace; background: url('https://bitcoin.org');]{x0000}$}
